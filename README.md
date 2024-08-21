@@ -1,6 +1,6 @@
 # Agile Lens GetLocalHostAddress Plugin
 
-A single blueprint node to get the device local IP address.  Currently tested platforms/engines are below, will backport/update at some point.
+A single blueprint node to get the device's local IP address. The currently tested platforms/engines are listed below. I will backport or update this at some point.
 
 ![image](https://github.com/user-attachments/assets/467a7ee3-e61c-44dd-96ad-c869ae0800cb)
 
@@ -15,4 +15,4 @@ Tested:
 | **Mac**    |   ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |
 | **Linux**  |   ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |
 
-If you use this on one of the untested platforms/engines and it works ok, please leave a issue saying which versions you used and I will update the tested grid.
+If you use this on one of the untested platforms/engines and it works fine, please leave an issue stating which versions you used. I will update the tested grid accordingly.
